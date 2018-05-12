@@ -1,0 +1,51 @@
+_repo: My-Father-s-Dragon_30017
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gannett, Ruth Chrisman
+    gutenberg_agent_id: '34318'
+    url: http://www.gutenberg.org/2009/agents/34318
+covers:
+- cover_type: archival
+  image_path: 30017-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gannett, Ruth Stiles
+    gutenberg_agent_id: '34317'
+    url: http://www.gutenberg.org/2009/agents/34317
+description: "My Father's Dragon is a children's novel by Ruth Stiles Gannett about\
+  \ a young boy, Elmer Elevator, who runs away to Wild Island to rescue a baby dragon.\
+  \ Both a Newbery Honor Book and an ALA Notable Book, it is the first book of a trilogy\
+  \ whose other titles are Elmer and the Dragon and The Dragons of Blueland. All three\
+  \ were published in a 50-year anniversary edition as Three Tales of My Father's\
+  \ Dragon. It was made into an anime film titled, Elmer's Adventures: My Father's\
+  \ Dragon.\nThe narrative mode is unusual, in that the narrator refers to the protagonist\
+  \ only as \"my father\", giving the impression that this is a true story that happened\
+  \ long ago. The other two books in the trilogy are narrated in the third person.\n\
+  The illustrations within the book are black and white done with a grease crayon\
+  \ on a grained paper, done by Ruth Chrisman Gannett, who also illustrated other\
+  \ children's books such as My Mother Is the Most Beautiful Woman in the World, Paco\
+  \ Goes to the Fair, Miss Hickory, Hipo the Hippo, and adult books such as Tortilla\
+  \ Flat by John Steinbeck and Cream Hill by Lewis Stiles Gannett, the author's father\
+  \ and husband of the book's illustrator.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2009-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30017'
+  lccn: '48006527'
+  wikidata: Q11291108
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Fiction'
+- !lcsh 'Dragons -- Fiction'
+- !lcc 'PZ'
+title: My Father's Dragon
+url: http://www.gutenberg.org/ebooks/30017
+wikipedia:
+- https://en.wikipedia.org/wiki/My_Father%27s_Dragon
+- https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%AA%E0%B9%8C%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%99
+- https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%9E%E3%83%BC%E3%81%AE%E3%81%BC%E3%81%86%E3%81%91%E3%82%93
+- https://es.wikipedia.org/wiki/El_drag%C3%B3n_de_pap%C3%A1

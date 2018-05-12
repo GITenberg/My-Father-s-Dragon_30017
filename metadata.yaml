@@ -28,6 +28,8 @@ description: "My Father's Dragon is a children's novel by Ruth Stiles Gannett ab
   \ Goes to the Fair, Miss Hickory, Hipo the Hippo, and adult books such as Tortilla\
   \ Flat by John Steinbeck and Cream Hill by Lewis Stiles Gannett, the author's father\
   \ and husband of the book's illustrator.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30017#My-Father-s-Dragon
 gutenberg_issued: '2009-09-18'
 gutenberg_type: Text
 identifiers:
